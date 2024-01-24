@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**dogevroum/dogevroum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# dogevroum
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a French student. I started programming around 2013-2014. I first learned HTML&CSS, then a bit later some Javascript and Python, and now I'm learning Typescript (close to Javascript), C# and Rust soon normally
+
+- 🔭 I’m currently working on Solana OnChain Tools
+- 🌱 I’m currently learning TypeScript
+
+## My networks
+
+You can find me on discord, my username is `dogevr`
+
+All the work I shared on GitHub is entirely free, but if you want to make a donation to support my work, here are my adress `9qgt55vF3AWqM1ophBGkfVqDBVt5ayKB2cyL2Y1JPTmZ`
