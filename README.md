@@ -3,10 +3,10 @@
 
 ## About me
 
-I am a French student. I started programming around 2013-2014. I first learned HTML&CSS, then a bit later some Javascript and Python, and now I'm learning Typescript (close to Javascript), C# and Rust soon normally
+I am a French student. I started programming around 2013-2014. I first learned HTML&CSS, then a bit later some Javascript and Python, and now I'm learning Rust and C#.
 
 - 🔭 I’m currently working on Solana OnChain Tools
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Rust
 
 ## My networks
 
